@@ -1,4 +1,4 @@
-# 🌪️ Hurricane Damage Classification Using CNN  
+#  Hurricane Damage Classification Using CNN  
 
 ## 📌 Project Overview  
 This project leverages **Convolutional Neural Networks (CNNs)** to classify images as either **damage** or **no damage**, assisting in **post-hurricane disaster assessment**.  
